@@ -1,0 +1,2247 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iSubAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 2106}}";
+			sepNavSelRange = "{1325, 0}";
+			sepNavVisRange = "{0, 2652}";
+			sepNavWindowFrame = "{{252, 42}, {1005, 771}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iSubAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1524, 8164}}";
+			sepNavSelRange = "{10991, 0}";
+			sepNavVisRange = "{8918, 1435}";
+			sepNavWindowFrame = "{{208, 9}, {1026, 769}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iSub */ = {
+		activeExec = 0;
+		executables = (
+			53F2D1811139DA4500107D63 /* iSub */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* iSub_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{74, 0}";
+			sepNavVisRange = "{0, 314}";
+			sepNavWindowFrame = "{{15, 2}, {1005, 771}}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{1640, 0}";
+			sepNavVisRange = "{0, 1991}";
+			sepNavWindowFrame = "{{15, 2}, {1005, 771}}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 5369}}";
+			sepNavSelRange = "{1640, 0}";
+			sepNavVisRange = "{77, 2849}";
+			sepNavWindowFrame = "{{81, -156}, {1005, 771}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 53F2D1811139DA4500107D63 /* iSub */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iSub */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iSub */,
+		);
+		breakpoints = (
+			53F2D2B6113A107500107D63 /* RootViewController.m:270 */,
+			53F2D535113A5CFF00107D63 /* AlbumViewController.m:53 */,
+			53F67623113B0BFD00822059 /* iPhoneStreamingPlayerViewController.m:141 */,
+			533A2BB3113C3EB900B3A376 /* SongViewController.m:43 */,
+			533A2C13113C4CBC00B3A376 /* RootViewController.m:247 */,
+			533A2C15113C4D0000B3A376 /* RootViewController.m:290 */,
+			533A2C20113C4D3800B3A376 /* RootViewController.m:276 */,
+			533A2C3D113C4DEB00B3A376 /* AlbumViewController.m:47 */,
+			533A2C8E113C507600B3A376 /* AlbumViewController.m:53 */,
+			533A2C9D113C50FE00B3A376 /* SongViewController.m:52 */,
+			533A2DA3113C9C2D00B3A376 /* iPhoneStreamingPlayerViewController.m:66 */,
+			533A2E3C113CABA100B3A376 /* iPhoneStreamingPlayerViewController.m:141 */,
+			533A2F59113CBA4C00B3A376 /* iPhoneStreamingPlayerViewController.m:80 */,
+			533A2FE5113CC49700B3A376 /* SongViewController.m:123 */,
+			533A2FF5113CC52000B3A376 /* SongViewController.m:118 */,
+			533A3028113CC7B700B3A376 /* iPhoneStreamingPlayerViewController.m:156 */,
+			533A3032113CC7DE00B3A376 /* iPhoneStreamingPlayerViewController.m:156 */,
+			533A3036113CC7E100B3A376 /* iPhoneStreamingPlayerViewController.m:156 */,
+			533A303F113CC8DB00B3A376 /* iPhoneStreamingPlayerViewController.m:156 */,
+			533A3047113CC93400B3A376 /* iPhoneStreamingPlayerViewController.m:156 */,
+			53007793113CD4F800D64815 /* iPhoneStreamingPlayerViewController.m:102 */,
+			53007886113CEA2A00D64815 /* objc_exception_throw */,
+			537DE1A9113ED40200875852 /* AudioStreamer.m:1021 */,
+			537DE23F113EEC6A00875852 /* AlbumViewController.m:149 */,
+			535A88F8113F82A500979783 /* iSubAppDelegate.m:385 */,
+			535A8902113F82B300979783 /* iSubAppDelegate.m:390 */,
+			535A890A113F832200979783 /* iSubAppDelegate.m:385 */,
+			535A890C113F832300979783 /* iSubAppDelegate.m:385 */,
+			535A8912113F83E200979783 /* iSubAppDelegate.m:394 */,
+			535A8914113F83E300979783 /* iSubAppDelegate.m:395 */,
+			535A8916113F83E800979783 /* iSubAppDelegate.m:407 */,
+			535A8918113F83E900979783 /* iSubAppDelegate.m:408 */,
+			535A891A113F83E900979783 /* iSubAppDelegate.m:409 */,
+			535A891C113F83ED00979783 /* iSubAppDelegate.m:410 */,
+			535A8926113F842A00979783 /* AudioStreamer.m:893 */,
+			535A8928113F842C00979783 /* AudioStreamer.m:894 */,
+			535A892A113F842C00979783 /* AudioStreamer.m:895 */,
+			535A892C113F842D00979783 /* AudioStreamer.m:896 */,
+			535A892E113F842D00979783 /* AudioStreamer.m:898 */,
+			535A8930113F842E00979783 /* AudioStreamer.m:900 */,
+			535A8936113F843E00979783 /* AudioStreamer.m:749 */,
+			535A893E113F847000979783 /* AudioStreamer.m:901 */,
+			535A894B113F851B00979783 /* AudioStreamer.m:763 */,
+			535A894D113F852100979783 /* AudioStreamer.m:783 */,
+			535A894F113F852400979783 /* AudioStreamer.m:795 */,
+			535A8951113F852600979783 /* AudioStreamer.m:820 */,
+			535A8954113F854000979783 /* AudioStreamer.m:801 */,
+			535A8956113F854100979783 /* AudioStreamer.m:803 */,
+			53D6CD9011405544007CE37B /* iPhoneStreamingPlayerViewController.m:68 */,
+			5303BCAE114301880000592B /* AlbumViewController.m:53 */,
+			5303BCB01143018B0000592B /* AlbumViewController.m:53 */,
+			5303BCB2114301910000592B /* AlbumViewController.m:53 */,
+			5303BCB4114301920000592B /* AlbumViewController.m:53 */,
+			5303BCBE114301C30000592B /* AlbumViewController.m:106 */,
+			5303BFEB114346E90000592B /* AlbumViewController.m:227 */,
+			5303C06A11435DFA0000592B /* AlbumViewController.m:69 */,
+			5303C07911435EC40000592B /* AlbumViewController.m:100 */,
+			5303C08D11435FB60000592B /* AlbumViewController.m:106 */,
+			5303C09D114360870000592B /* AlbumViewController.m:102 */,
+			536D63841144750F00DFCE56 /* iSubAppDelegate.m:355 */,
+			536D638D1144753100DFCE56 /* iSubAppDelegate.m:357 */,
+			536D638F1144753300DFCE56 /* iSubAppDelegate.m:359 */,
+			53AA2FDD11461523003E57E3 /* iSubAppDelegate.m:219 */,
+			53AA2FDF11461524003E57E3 /* iSubAppDelegate.m:226 */,
+			53AA2FE111461525003E57E3 /* iSubAppDelegate.m:232 */,
+			5377F0B6114DAA61002706AC /* SongInfoViewController.m:117 */,
+			5377F171114E2CFA002706AC /* iSubAppDelegate.m:210 */,
+			5305C1521157D93400BC78F0 /* AlbumViewController.m:229 */,
+			5305C1541157D93500BC78F0 /* AlbumViewController.m:250 */,
+			5305C2621158063500BC78F0 /* iSubAppDelegate.m:113 */,
+			5305C2691158067100BC78F0 /* iSubAppDelegate.m:70 */,
+		);
+		codeSenseManager = 53F2D1861139DA6400107D63 /* Code sense */;
+		executables = (
+			53F2D1811139DA4500107D63 /* iSub */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					212,
+					20,
+					29,
+					10,
+					10,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					1138,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1052,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1210,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303064301;
+			PBXWorkspaceStateSaveDate = 303064301;
+		};
+		perUserProjectItems = {
+			5384D96E12105E3D00CCCBDD /* PBXBookmark */ = 5384D96E12105E3D00CCCBDD /* PBXBookmark */;
+			5384D96F12105E3D00CCCBDD /* PBXBookmark */ = 5384D96F12105E3D00CCCBDD /* PBXBookmark */;
+			5384D97012105E3D00CCCBDD /* PBXBookmark */ = 5384D97012105E3D00CCCBDD /* PBXBookmark */;
+			5384D97112105E3D00CCCBDD /* PBXBookmark */ = 5384D97112105E3D00CCCBDD /* PBXBookmark */;
+			5384D97212105E3D00CCCBDD /* PBXBookmark */ = 5384D97212105E3D00CCCBDD /* PBXBookmark */;
+			5384D97312105E3D00CCCBDD /* PBXBookmark */ = 5384D97312105E3D00CCCBDD /* PBXBookmark */;
+			5384D97412105E3D00CCCBDD /* PBXBookmark */ = 5384D97412105E3D00CCCBDD /* PBXBookmark */;
+			5384D9D7121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9D7121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9D8121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9D8121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9D9121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9D9121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9DA121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9DA121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9DB121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9DB121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9DC121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9DC121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9DD121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9DD121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9DE121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9DE121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9DF121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9DF121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9E0121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9E0121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9E1121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9E1121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9E2121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9E2121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9E3121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9E3121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9E4121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9E4121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9E5121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9E5121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9EA121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9EA121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9EB121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9EB121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9EC121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9EC121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9EE121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9EE121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9EF121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9EF121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9F0121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9F0121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9F1121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9F1121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9F2121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9F2121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9F3121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9F3121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9F4121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9F4121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9F5121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9F5121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9F6121064DC00CCCBDD /* PlistBookmark */ = 5384D9F6121064DC00CCCBDD /* PlistBookmark */;
+			5384D9F7121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9F7121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9F9121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9F9121064DC00CCCBDD /* PBXTextBookmark */;
+			5384D9FA121064DC00CCCBDD /* PBXTextBookmark */ = 5384D9FA121064DC00CCCBDD /* PBXTextBookmark */;
+			53A2C52B121064FE000374E1 /* PBXTextBookmark */ = 53A2C52B121064FE000374E1 /* PBXTextBookmark */;
+			53A2C52C121064FE000374E1 /* PBXTextBookmark */ = 53A2C52C121064FE000374E1 /* PBXTextBookmark */;
+			53A2C52D121064FE000374E1 /* PBXTextBookmark */ = 53A2C52D121064FE000374E1 /* PBXTextBookmark */;
+			53A2C52E121064FE000374E1 /* PBXTextBookmark */ = 53A2C52E121064FE000374E1 /* PBXTextBookmark */;
+			53A2C52F121064FE000374E1 /* PBXTextBookmark */ = 53A2C52F121064FE000374E1 /* PBXTextBookmark */;
+			53A2C530121064FE000374E1 /* PBXTextBookmark */ = 53A2C530121064FE000374E1 /* PBXTextBookmark */;
+			53A2C531121064FE000374E1 /* PBXTextBookmark */ = 53A2C531121064FE000374E1 /* PBXTextBookmark */;
+			53A2C532121064FE000374E1 /* PBXTextBookmark */ = 53A2C532121064FE000374E1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 53F2D1851139DA6400107D63 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{22, 0}";
+			sepNavVisRange = "{0, 1857}";
+		};
+	};
+	53007793113CD4F800D64815 /* iPhoneStreamingPlayerViewController.m:102 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 102;
+		location = iSubTESTING;
+		modificationTime = 303064232.093484;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	53007886113CEA2A00D64815 /* objc_exception_throw */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = libobjc.A.dylib;
+		modificationTime = 303064232.095762;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+		symbolName = objc_exception_throw;
+	};
+	5303BCAE114301880000592B /* AlbumViewController.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = iSubTESTING;
+		modificationTime = 303064232.094318;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5303BCB01143018B0000592B /* AlbumViewController.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = iSubTESTING;
+		modificationTime = 303064232.094349;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5303BCB2114301910000592B /* AlbumViewController.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = iSubTESTING;
+		modificationTime = 303064232.09438;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5303BCB4114301920000592B /* AlbumViewController.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = iSubTESTING;
+		modificationTime = 303064232.094408;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5303BCBE114301C30000592B /* AlbumViewController.m:106 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 106;
+		location = iSubTESTING;
+		modificationTime = 303064232.094435;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5303BFEB114346E90000592B /* AlbumViewController.m:227 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 227;
+		location = iSubTESTING;
+		modificationTime = 303064232.094467;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5303C06A11435DFA0000592B /* AlbumViewController.m:69 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 69;
+		location = iSubTESTING;
+		modificationTime = 303064232.094504;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5303C07911435EC40000592B /* AlbumViewController.m:100 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 100;
+		location = iSubTESTING;
+		modificationTime = 303064232.0945531;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5303C08D11435FB60000592B /* AlbumViewController.m:106 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewDidAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 106;
+		location = iSubTESTING;
+		modificationTime = 303064232.094583;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5303C09D114360870000592B /* AlbumViewController.m:102 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 102;
+		location = iSubTESTING;
+		modificationTime = 303064232.094598;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5305C1521157D93400BC78F0 /* AlbumViewController.m:229 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 229;
+		location = iSub;
+		modificationTime = 303064232.0950919;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5305C1541157D93500BC78F0 /* AlbumViewController.m:250 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 250;
+		location = iSub;
+		modificationTime = 303064232.0951239;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5305C1D81157EA7A00BC78F0 /* Reachability.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 1118}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2953}";
+		};
+	};
+	5305C1D91157EA7A00BC78F0 /* Reachability.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 3718}}";
+			sepNavSelRange = "{6318, 0}";
+			sepNavVisRange = "{6268, 644}";
+		};
+	};
+	5305C2621158063500BC78F0 /* iSubAppDelegate.m:113 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-appInit";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 113;
+		location = iSub;
+		modificationTime = 303064232.095149;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5305C2691158067100BC78F0 /* iSubAppDelegate.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-applicationDidFinishLaunching:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = iSub;
+		modificationTime = 303064232.09519;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2BB3113C3EB900B3A376 /* SongViewController.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D5AD113A661E00107D63 /* SongViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = iSubTESTING;
+		modificationTime = 303064232.093023;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2C13113C4CBC00B3A376 /* RootViewController.m:247 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-tableView:numberOfRowsInSection:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 247;
+		location = iSubTESTING;
+		modificationTime = 303064232.093053;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2C15113C4D0000B3A376 /* RootViewController.m:290 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-tableView:titleForHeaderInSection:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 290;
+		location = iSubTESTING;
+		modificationTime = 303064232.093088;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2C20113C4D3800B3A376 /* RootViewController.m:276 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 276;
+		location = iSubTESTING;
+		modificationTime = 303064232.093113;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2C3D113C4DEB00B3A376 /* AlbumViewController.m:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 47;
+		location = iSubTESTING;
+		modificationTime = 303064232.093134;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2C8E113C507600B3A376 /* AlbumViewController.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = iSubTESTING;
+		modificationTime = 303064232.093151;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2C9D113C50FE00B3A376 /* SongViewController.m:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D5AD113A661E00107D63 /* SongViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 52;
+		location = iSubTESTING;
+		modificationTime = 303064232.093171;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2D05113C61C900B3A376 /* AsynchronousImageView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 866}}";
+			sepNavSelRange = "{133, 0}";
+			sepNavVisRange = "{0, 445}";
+		};
+	};
+	533A2D06113C61CA00B3A376 /* AsynchronousImageView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 975}}";
+			sepNavSelRange = "{1617, 5}";
+			sepNavVisRange = "{0, 2118}";
+		};
+	};
+	533A2DA3113C9C2D00B3A376 /* iPhoneStreamingPlayerViewController.m:66 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 66;
+		location = iSubTESTING;
+		modificationTime = 303064232.093195;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2E3C113CABA100B3A376 /* iPhoneStreamingPlayerViewController.m:141 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-initPlayer";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 141;
+		location = iSubTESTING;
+		modificationTime = 303064232.093218;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2F59113CBA4C00B3A376 /* iPhoneStreamingPlayerViewController.m:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = iSubTESTING;
+		modificationTime = 303064232.0932389;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2FE5113CC49700B3A376 /* SongViewController.m:123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D5AD113A661E00107D63 /* SongViewController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 123;
+		location = iSubTESTING;
+		modificationTime = 303064232.093269;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A2FF5113CC52000B3A376 /* SongViewController.m:118 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D5AD113A661E00107D63 /* SongViewController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 118;
+		location = iSubTESTING;
+		modificationTime = 303064232.093316;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A3028113CC7B700B3A376 /* iPhoneStreamingPlayerViewController.m:156 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 156;
+		location = iSubTESTING;
+		modificationTime = 303064232.093348;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A3032113CC7DE00B3A376 /* iPhoneStreamingPlayerViewController.m:156 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 156;
+		location = iSubTESTING;
+		modificationTime = 303064232.093374;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A3036113CC7E100B3A376 /* iPhoneStreamingPlayerViewController.m:156 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 156;
+		location = iSubTESTING;
+		modificationTime = 303064232.093397;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A303F113CC8DB00B3A376 /* iPhoneStreamingPlayerViewController.m:156 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 156;
+		location = iSubTESTING;
+		modificationTime = 303064232.09342;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	533A3047113CC93400B3A376 /* iPhoneStreamingPlayerViewController.m:156 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 156;
+		location = iSubTESTING;
+		modificationTime = 303064232.0934411;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	534E43B51155659A000B4134 /* AlbumUITableViewCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{1642, 0}";
+			sepNavVisRange = "{0, 1965}";
+		};
+	};
+	534E43B61155659A000B4134 /* AlbumUITableViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 1105}}";
+			sepNavSelRange = "{1642, 0}";
+			sepNavVisRange = "{0, 2693}";
+		};
+	};
+	534E43B8115565FA000B4134 /* AsynchronousImageViewCached.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{243, 0}";
+			sepNavVisRange = "{0, 503}";
+		};
+	};
+	534E43B9115565FA000B4134 /* AsynchronousImageViewCached.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 949}}";
+			sepNavSelRange = "{77, 0}";
+			sepNavVisRange = "{0, 1920}";
+		};
+	};
+	534E446F1155B106000B4134 /* SongUITableViewCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{1641, 0}";
+			sepNavVisRange = "{0, 1807}";
+		};
+	};
+	534E44701155B106000B4134 /* SongUITableViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 1014}}";
+			sepNavSelRange = "{1641, 0}";
+			sepNavVisRange = "{0, 2477}";
+		};
+	};
+	535A88F8113F82A500979783 /* iSubAppDelegate.m:385 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-createStreamer";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 385;
+		location = iSubTESTING;
+		modificationTime = 303064232.093537;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8902113F82B300979783 /* iSubAppDelegate.m:390 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 390;
+		location = iSubTESTING;
+		modificationTime = 303064232.093633;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A890A113F832200979783 /* iSubAppDelegate.m:385 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-createStreamer";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 385;
+		location = iSubTESTING;
+		modificationTime = 303064232.0936739;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A890C113F832300979783 /* iSubAppDelegate.m:385 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-createStreamer";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 385;
+		location = iSubTESTING;
+		modificationTime = 303064232.093707;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8912113F83E200979783 /* iSubAppDelegate.m:394 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 394;
+		location = iSubTESTING;
+		modificationTime = 303064232.09374;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8914113F83E300979783 /* iSubAppDelegate.m:395 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 395;
+		location = iSubTESTING;
+		modificationTime = 303064232.093783;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8916113F83E800979783 /* iSubAppDelegate.m:407 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 407;
+		location = iSubTESTING;
+		modificationTime = 303064232.093828;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8918113F83E900979783 /* iSubAppDelegate.m:408 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 408;
+		location = iSubTESTING;
+		modificationTime = 303064232.093886;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A891A113F83E900979783 /* iSubAppDelegate.m:409 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 409;
+		location = iSubTESTING;
+		modificationTime = 303064232.093926;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A891C113F83ED00979783 /* iSubAppDelegate.m:410 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-playPauseSong";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 410;
+		location = iSubTESTING;
+		modificationTime = 303064232.093954;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8926113F842A00979783 /* AudioStreamer.m:893 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-start";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 893;
+		location = iSubTESTING;
+		modificationTime = 303064232.093985;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8928113F842C00979783 /* AudioStreamer.m:894 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-start";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 894;
+		location = iSubTESTING;
+		modificationTime = 303064232.0940031;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A892A113F842C00979783 /* AudioStreamer.m:895 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-start";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 895;
+		location = iSubTESTING;
+		modificationTime = 303064232.094034;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A892C113F842D00979783 /* AudioStreamer.m:896 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-start";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 896;
+		location = iSubTESTING;
+		modificationTime = 303064232.09405;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A892E113F842D00979783 /* AudioStreamer.m:898 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-start";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 898;
+		location = iSubTESTING;
+		modificationTime = 303064232.094063;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8930113F842E00979783 /* AudioStreamer.m:900 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-start";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 900;
+		location = iSubTESTING;
+		modificationTime = 303064232.094083;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8936113F843E00979783 /* AudioStreamer.m:749 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-startInternal";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 749;
+		location = iSubTESTING;
+		modificationTime = 303064232.0940999;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A893E113F847000979783 /* AudioStreamer.m:901 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-start";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 901;
+		location = iSubTESTING;
+		modificationTime = 303064232.094117;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A894B113F851B00979783 /* AudioStreamer.m:763 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-startInternal";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 763;
+		location = iSubTESTING;
+		modificationTime = 303064232.09414;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A894D113F852100979783 /* AudioStreamer.m:783 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-startInternal";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 783;
+		location = iSubTESTING;
+		modificationTime = 303064232.094164;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A894F113F852400979783 /* AudioStreamer.m:795 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-startInternal";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 795;
+		location = iSubTESTING;
+		modificationTime = 303064232.094187;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8951113F852600979783 /* AudioStreamer.m:820 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-startInternal";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 820;
+		location = iSubTESTING;
+		modificationTime = 303064232.094203;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8954113F854000979783 /* AudioStreamer.m:801 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-startInternal";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 801;
+		location = iSubTESTING;
+		modificationTime = 303064232.094227;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	535A8956113F854100979783 /* AudioStreamer.m:803 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-startInternal";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 803;
+		location = iSubTESTING;
+		modificationTime = 303064232.094255;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	536D63841144750F00DFCE56 /* iSubAppDelegate.m:355 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-getBaseUrl:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 355;
+		location = iSubTESTING;
+		modificationTime = 303064232.0946139;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	536D638D1144753100DFCE56 /* iSubAppDelegate.m:357 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-getBaseUrl:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 357;
+		location = iSubTESTING;
+		modificationTime = 303064232.094656;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	536D638F1144753300DFCE56 /* iSubAppDelegate.m:359 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-getBaseUrl:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 359;
+		location = iSubTESTING;
+		modificationTime = 303064232.094732;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5377F0B6114DAA61002706AC /* SongInfoViewController.m:117 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53CECEF7113D8B9500B09699 /* SongInfoViewController.m */;
+		functionName = "-updateSlider";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 117;
+		location = iSub;
+		modificationTime = 303064232.094988;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5377F171114E2CFA002706AC /* iSubAppDelegate.m:210 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-alertView:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 210;
+		location = iSub;
+		modificationTime = 303064232.095023;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	537DE1A9113ED40200875852 /* AudioStreamer.m:1021 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		functionName = "-progress";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1021;
+		location = iSubTESTING;
+		modificationTime = 303064232.0935031;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	537DE23F113EEC6A00875852 /* AlbumViewController.m:149 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 149;
+		location = iSubTESTING;
+		modificationTime = 303064232.093519;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5384D96E12105E3D00CCCBDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 536D624311444E4600DFCE56 /* app-icon.png */;
+	};
+	5384D96F12105E3D00CCCBDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 53F0CD8111589F0A00A665CD /* progress-label-background.png */;
+	};
+	5384D97012105E3D00CCCBDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 536D612811441F5B00DFCE56 /* settings-page.png */;
+	};
+	5384D97112105E3D00CCCBDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 535A8899113F62DD00979783 /* default-album-art.png */;
+	};
+	5384D97212105E3D00CCCBDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 534E443E1155AD01000B4134 /* default-album-art-small.png */;
+	};
+	5384D97312105E3D00CCCBDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 53AA300311461A04003E57E3 /* background.png */;
+	};
+	5384D97412105E3D00CCCBDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5305C2051157F4F800BC78F0 /* Default.png */;
+	};
+	5384D9D7121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		name = "iSubAppDelegate.m: 7";
+		rLen = 1512;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 3007;
+		vrLoc = 0;
+	};
+	5384D9D8121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53CED25C113E2FF100B09699 /* SettingsViewController.h */;
+		name = "SettingsViewController.h: 29";
+		rLen = 0;
+		rLoc = 1643;
+		rType = 0;
+		vrLen = 1976;
+		vrLoc = 0;
+	};
+	5384D9D9121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 29";
+		rLen = 0;
+		rLoc = 1640;
+		rType = 0;
+		vrLen = 1991;
+		vrLoc = 0;
+	};
+	5384D9DA121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 29";
+		rLen = 0;
+		rLoc = 1640;
+		rType = 0;
+		vrLen = 2849;
+		vrLoc = 77;
+	};
+	5384D9DB121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		name = "AlbumViewController.m: 29";
+		rLen = 0;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 2729;
+		vrLoc = 0;
+	};
+	5384D9DC121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 534E43B51155659A000B4134 /* AlbumUITableViewCell.h */;
+		name = "AlbumUITableViewCell.h: 29";
+		rLen = 0;
+		rLoc = 1642;
+		rType = 0;
+		vrLen = 1965;
+		vrLoc = 0;
+	};
+	5384D9DD121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 534E43B61155659A000B4134 /* AlbumUITableViewCell.m */;
+		name = "AlbumUITableViewCell.m: 29";
+		rLen = 0;
+		rLoc = 1642;
+		rType = 0;
+		vrLen = 2693;
+		vrLoc = 0;
+	};
+	5384D9DE121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 534E446F1155B106000B4134 /* SongUITableViewCell.h */;
+		name = "SongUITableViewCell.h: 29";
+		rLen = 0;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 1807;
+		vrLoc = 0;
+	};
+	5384D9DF121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 534E44701155B106000B4134 /* SongUITableViewCell.m */;
+		name = "SongUITableViewCell.m: 29";
+		rLen = 0;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 2477;
+		vrLoc = 0;
+	};
+	5384D9E0121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F675AD113B048600822059 /* iPhoneStreamingPlayerViewController.h */;
+		name = "iPhoneStreamingPlayerViewController.h: 29";
+		rLen = 0;
+		rLoc = 1657;
+		rType = 0;
+		vrLen = 2277;
+		vrLoc = 0;
+	};
+	5384D9E1121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		name = "iPhoneStreamingPlayerViewController.m: 29";
+		rLen = 0;
+		rLoc = 1657;
+		rType = 0;
+		vrLen = 2488;
+		vrLoc = 0;
+	};
+	5384D9E2121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53CECEF7113D8B9500B09699 /* SongInfoViewController.m */;
+		name = "SongInfoViewController.m: 29";
+		rLen = 0;
+		rLoc = 1643;
+		rType = 0;
+		vrLen = 2569;
+		vrLoc = 0;
+	};
+	5384D9E3121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53CECEF6113D8B9500B09699 /* SongInfoViewController.h */;
+		name = "SongInfoViewController.h: 29";
+		rLen = 0;
+		rLoc = 1643;
+		rType = 0;
+		vrLen = 2821;
+		vrLoc = 0;
+	};
+	5384D9E4121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5305C1D81157EA7A00BC78F0 /* Reachability.h */;
+		name = "Reachability.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2953;
+		vrLoc = 0;
+	};
+	5384D9E5121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5305C1D91157EA7A00BC78F0 /* Reachability.m */;
+		name = "Reachability.m: 175";
+		rLen = 0;
+		rLoc = 6318;
+		rType = 0;
+		vrLen = 2942;
+		vrLoc = 0;
+	};
+	5384D9EA121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 533A2D06113C61CA00B3A376 /* AsynchronousImageView.m */;
+		name = "AsynchronousImageView.m: 53";
+		rLen = 5;
+		rLoc = 1617;
+		rType = 0;
+		vrLen = 2118;
+		vrLoc = 0;
+	};
+	5384D9EB121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 534E43B8115565FA000B4134 /* AsynchronousImageViewCached.h */;
+		name = "AsynchronousImageViewCached.h: 10";
+		rLen = 0;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 0;
+	};
+	5384D9EC121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 534E43B9115565FA000B4134 /* AsynchronousImageViewCached.m */;
+		name = "AsynchronousImageViewCached.m: 5";
+		rLen = 0;
+		rLoc = 77;
+		rType = 0;
+		vrLen = 1920;
+		vrLoc = 0;
+	};
+	5384D9EE121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D1FD1139F5A500107D63 /* Index.m */;
+		name = "Index.m: 29";
+		rLen = 0;
+		rLoc = 1627;
+		rType = 0;
+		vrLen = 1755;
+		vrLoc = 0;
+	};
+	5384D9EF121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D1D51139F05200107D63 /* Artist.h */;
+		name = "Artist.h: 29";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1807;
+		vrLoc = 0;
+	};
+	5384D9F0121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D1D61139F05200107D63 /* Artist.m */;
+		name = "Artist.m: 29";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1789;
+		vrLoc = 0;
+	};
+	5384D9F1121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D41E113A4E2C00107D63 /* Album.h */;
+		name = "Album.h: 29";
+		rLen = 0;
+		rLoc = 1627;
+		rType = 0;
+		vrLen = 1979;
+		vrLoc = 0;
+	};
+	5384D9F2121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D41F113A4E2C00107D63 /* Album.m */;
+		name = "Album.m: 29";
+		rLen = 0;
+		rLoc = 1627;
+		rType = 0;
+		vrLen = 2172;
+		vrLoc = 0;
+	};
+	5384D9F3121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D5A5113A63F300107D63 /* Song.m */;
+		name = "Song.m: 24";
+		rLen = 1;
+		rLoc = 1254;
+		rType = 0;
+		vrLen = 2575;
+		vrLoc = 0;
+	};
+	5384D9F4121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D5A4113A63F300107D63 /* Song.h */;
+		name = "Song.h: 29";
+		rLen = 0;
+		rLoc = 1626;
+		rType = 0;
+		vrLen = 2566;
+		vrLoc = 0;
+	};
+	5384D9F5121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 3";
+		rLen = 0;
+		rLoc = 22;
+		rType = 0;
+		vrLen = 1857;
+		vrLoc = 0;
+	};
+	5384D9F6121064DC00CCCBDD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iSub-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/bbaron/Dropbox/iPhone Dev/iSub/branches/stable-1.1.1 copy/iSub-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	5384D9F7121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* iSub_Prefix.pch */;
+		name = "iSub_Prefix.pch: 2";
+		rLen = 0;
+		rLoc = 74;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	5384D9F9121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53CED25D113E2FF100B09699 /* SettingsViewController.m */;
+		name = "SettingsViewController.m: 29";
+		rLen = 0;
+		rLoc = 1643;
+		rType = 0;
+		vrLen = 2538;
+		vrLoc = 0;
+	};
+	5384D9FA121064DC00CCCBDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D3EB113A338500107D63 /* AlbumViewController.h */;
+		name = "AlbumViewController.h: 29";
+		rLen = 0;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 1810;
+		vrLoc = 0;
+	};
+	53A2C52B121064FE000374E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iSubAppDelegate.h */;
+		name = "iSubAppDelegate.h: 25";
+		rLen = 0;
+		rLoc = 1325;
+		rType = 0;
+		vrLen = 2652;
+		vrLoc = 0;
+	};
+	53A2C52C121064FE000374E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D1FC1139F5A500107D63 /* Index.h */;
+		name = "Index.h: 29";
+		rLen = 0;
+		rLoc = 1627;
+		rType = 0;
+		vrLen = 1735;
+		vrLoc = 0;
+	};
+	53A2C52D121064FE000374E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 533A2D05113C61C900B3A376 /* AsynchronousImageView.h */;
+		name = "AsynchronousImageView.h: 6";
+		rLen = 0;
+		rLoc = 133;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	53A2C52E121064FE000374E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D2391139F9DC00107D63 /* XMLParser.h */;
+		name = "XMLParser.h: 29";
+		rLen = 0;
+		rLoc = 1631;
+		rType = 0;
+		vrLen = 1948;
+		vrLoc = 0;
+	};
+	53A2C52F121064FE000374E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F675A8113B041100822059 /* AudioStreamer.h */;
+		name = "AudioStreamer.h: 13";
+		rLen = 0;
+		rLoc = 496;
+		rType = 0;
+		vrLen = 2341;
+		vrLoc = 0;
+	};
+	53A2C530121064FE000374E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D23A1139F9DC00107D63 /* XMLParser.m */;
+		name = "XMLParser.m: 29";
+		rLen = 0;
+		rLoc = 1631;
+		rType = 0;
+		vrLen = 2658;
+		vrLoc = 0;
+	};
+	53A2C531121064FE000374E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F675A9113B041100822059 /* AudioStreamer.m */;
+		name = "AudioStreamer.m: 16";
+		rLen = 0;
+		rLoc = 691;
+		rType = 0;
+		vrLen = 3611;
+		vrLoc = 0;
+	};
+	53A2C532121064FE000374E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F2D3EB113A338500107D63 /* AlbumViewController.h */;
+		name = "AlbumViewController.h: 29";
+		rLen = 0;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 1810;
+		vrLoc = 0;
+	};
+	53AA2FDD11461523003E57E3 /* iSubAppDelegate.m:219 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-isURLValid:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 219;
+		location = iSub;
+		modificationTime = 303064232.094797;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	53AA2FDF11461524003E57E3 /* iSubAppDelegate.m:226 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-isURLValid:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 226;
+		location = iSub;
+		modificationTime = 303064232.0948719;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	53AA2FE111461525003E57E3 /* iSubAppDelegate.m:232 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* iSubAppDelegate.m */;
+		functionName = "-isURLValid:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 232;
+		location = iSub;
+		modificationTime = 303064232.094932;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	53CECEF6113D8B9500B09699 /* SongInfoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 1014}}";
+			sepNavSelRange = "{1643, 0}";
+			sepNavVisRange = "{0, 2821}";
+		};
+	};
+	53CECEF7113D8B9500B09699 /* SongInfoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1363, 3666}}";
+			sepNavSelRange = "{1643, 0}";
+			sepNavVisRange = "{0, 2569}";
+			sepNavWindowFrame = "{{38, 7}, {1005, 771}}";
+		};
+	};
+	53CED25C113E2FF100B09699 /* SettingsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{1643, 0}";
+			sepNavVisRange = "{0, 1976}";
+		};
+	};
+	53CED25D113E2FF100B09699 /* SettingsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 2470}}";
+			sepNavSelRange = "{1643, 0}";
+			sepNavVisRange = "{0, 2538}";
+			sepNavWindowFrame = "{{711, 30}, {1005, 771}}";
+		};
+	};
+	53D6CD9011405544007CE37B /* iPhoneStreamingPlayerViewController.m:68 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 68;
+		location = iSubTESTING;
+		modificationTime = 303064232.094286;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	53F2D1811139DA4500107D63 /* iSub */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iSub;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	53F2D1851139DA6400107D63 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	53F2D1861139DA6400107D63 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	53F2D1D51139F05200107D63 /* Artist.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{1628, 0}";
+			sepNavVisRange = "{0, 1807}";
+		};
+	};
+	53F2D1D61139F05200107D63 /* Artist.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{1628, 0}";
+			sepNavVisRange = "{0, 1789}";
+			sepNavWindowFrame = "{{15, 0}, {843, 775}}";
+		};
+	};
+	53F2D1FC1139F5A500107D63 /* Index.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 866}}";
+			sepNavSelRange = "{1627, 0}";
+			sepNavVisRange = "{0, 1735}";
+		};
+	};
+	53F2D1FD1139F5A500107D63 /* Index.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{1627, 0}";
+			sepNavVisRange = "{0, 1755}";
+		};
+	};
+	53F2D2391139F9DC00107D63 /* XMLParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 866}}";
+			sepNavSelRange = "{1631, 0}";
+			sepNavVisRange = "{0, 1948}";
+		};
+	};
+	53F2D23A1139F9DC00107D63 /* XMLParser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1384, 3172}}";
+			sepNavSelRange = "{1631, 0}";
+			sepNavVisRange = "{0, 2658}";
+			sepNavWindowFrame = "{{384, -79}, {799, 762}}";
+		};
+	};
+	53F2D2B6113A107500107D63 /* RootViewController.m:270 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 270;
+		location = iSubTESTING;
+		modificationTime = 303064232.092896;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	53F2D3EB113A338500107D63 /* AlbumViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 866}}";
+			sepNavSelRange = "{1641, 0}";
+			sepNavVisRange = "{0, 1810}";
+			sepNavWindowFrame = "{{15, 2}, {1005, 771}}";
+		};
+	};
+	53F2D3EC113A338500107D63 /* AlbumViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 3848}}";
+			sepNavSelRange = "{1641, 0}";
+			sepNavVisRange = "{0, 2729}";
+			sepNavWindowFrame = "{{28, 8}, {1200, 770}}";
+		};
+	};
+	53F2D41E113A4E2C00107D63 /* Album.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{1627, 0}";
+			sepNavVisRange = "{0, 1979}";
+		};
+	};
+	53F2D41F113A4E2C00107D63 /* Album.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 858}}";
+			sepNavSelRange = "{1627, 0}";
+			sepNavVisRange = "{0, 2172}";
+		};
+	};
+	53F2D535113A5CFF00107D63 /* AlbumViewController.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F2D3EC113A338500107D63 /* AlbumViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = iSubTESTING;
+		modificationTime = 303064232.092962;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	53F2D5A4113A63F300107D63 /* Song.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 845}}";
+			sepNavSelRange = "{1626, 0}";
+			sepNavVisRange = "{0, 2566}";
+			sepNavWindowFrame = "{{92, 270}, {1005, 771}}";
+		};
+	};
+	53F2D5A5113A63F300107D63 /* Song.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 1131}}";
+			sepNavSelRange = "{1254, 1}";
+			sepNavVisRange = "{0, 2575}";
+			sepNavWindowFrame = "{{61, 240}, {1005, 771}}";
+		};
+	};
+	53F2D5AD113A661E00107D63 /* SongViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SongViewController.m;
+		path = "/Users/bbaron/Dropbox/iPhone Dev/iSubTESTING/Classes/SongViewController.m";
+		sourceTree = "<absolute>";
+	};
+	53F675A8113B041100822059 /* AudioStreamer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 2184}}";
+			sepNavSelRange = "{496, 0}";
+			sepNavVisRange = "{0, 2341}";
+			sepNavWindowFrame = "{{783, 5}, {1005, 771}}";
+		};
+	};
+	53F675A9113B041100822059 /* AudioStreamer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 23062}}";
+			sepNavSelRange = "{691, 0}";
+			sepNavVisRange = "{0, 3611}";
+			sepNavWindowFrame = "{{104, -40}, {1005, 771}}";
+		};
+	};
+	53F675AD113B048600822059 /* iPhoneStreamingPlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 843}}";
+			sepNavSelRange = "{1657, 0}";
+			sepNavVisRange = "{0, 2277}";
+		};
+	};
+	53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 2288}}";
+			sepNavSelRange = "{1657, 0}";
+			sepNavVisRange = "{0, 2488}";
+			sepNavWindowFrame = "{{61, 7}, {1005, 771}}";
+		};
+	};
+	53F67623113B0BFD00822059 /* iPhoneStreamingPlayerViewController.m:141 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 53F675AE113B048600822059 /* iPhoneStreamingPlayerViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 141;
+		location = iSubTESTING;
+		modificationTime = 303064232.0929931;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	8D1107310486CEB800E47090 /* iSub-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{207, 7}, {1005, 771}}";
+		};
+	};
+}
